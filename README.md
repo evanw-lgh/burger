@@ -1,5 +1,5 @@
 # burger
-burger website
+burger website by evan
 
 🍔🍔🍔🍔🍔🍔
 <img width="500" height="255" alt="HungryFoodGIFbySpongeBobSquarePants" src="https://github.com/user-attachments/assets/155fbc99-98b0-4c3f-b023-71240d44e231" />
